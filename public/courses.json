@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/r0WTbx4/HTML.jpg",
+    "price": 29.99,
+    "category": "HTML",
+    "title": "HTML Basics",
+    "course_name": "Introduction to HTML",
+    "teacher_name": "John Doe",
+    "description": "Master the essentials of Hypertext Markup Language (HTML) in this comprehensive course. Designed for beginners, you'll learn the foundational concepts of HTML, including tags, attributes, and document structure. Dive into hands-on exercises to build your first web pages and gain the skills needed for web development.",
+    "duration": "4 weeks",
+    "target_audience": "Beginners with little to no HTML experience",
+    "course_outline": [
+      "Introduction to HTML and the web",
+      "HTML document structure",
+      "HTML tags and attributes",
+      "Creating hyperlinks and lists",
+      "Working with images and forms",
+      "Building a simple webpage project"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/hHgqsP4/css.jpg",
+    "price": 34.99,
+    "category": "CSS",
+    "title": "CSS Fundamentals",
+    "course_name": "CSS Styling Techniques",
+    "teacher_name": "Jane Smith",
+    "description": "Unleash your creativity with Cascading Style Sheets (CSS) in this in-depth course. Whether you're a beginner or have some experience, you'll explore a wide range of styling techniques, including selectors, box model, and responsive design. Through practical examples and projects, you'll develop the skills to make your web pages visually appealing and responsive.",
+    "duration": "5 weeks",
+    "target_audience": "Beginners and intermediate web developers",
+    "course_outline": [
+      "Introduction to CSS and its role",
+      "CSS selectors and properties",
+      "Box model and layout techniques",
+      "Responsive design principles",
+      "Styling forms and tables",
+      "Building a responsive webpage project"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/QfKrphq/javascript.png",
+    "price": 39.99,
+    "category": "JavaScript",
+    "title": "JavaScript Essentials",
+    "course_name": "Modern JavaScript Programming",
+    "teacher_name": "Mike Johnson",
+    "description": "Dive into the dynamic world of JavaScript with this comprehensive course. Perfect for those with basic programming knowledge, you'll explore essential JavaScript concepts, including variables, loops, and functions. Through real-world examples and hands-on projects, you'll gain the skills to build interactive and dynamic web applications.",
+    "duration": "6 weeks",
+    "target_audience": "Beginners with basic programming knowledge",
+    "course_outline": [
+      "Introduction to JavaScript and its role",
+      "Variables, data types, and operators",
+      "Control flow and loops",
+      "Functions and arrays",
+      "DOM manipulation",
+      "Building an interactive webpage project"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/QFKcT27/react.png",
+    "price": 49.99,
+    "category": "React",
+    "title": "React for Beginners",
+    "course_name": "Getting Started with React",
+    "teacher_name": "Emily Wilson",
+    "description": "Embark on your journey into React development with this beginner-friendly course. Learn the fundamentals of React, including components, state, and props. Through hands-on projects and practical examples, you'll build a solid foundation for creating interactive and reusable user interfaces.",
+    "duration": "8 weeks",
+    "target_audience": "Web developers with basic HTML, CSS, and JavaScript knowledge",
+    "course_outline": [
+      "Introduction to React and its benefits",
+      "React components and JSX syntax",
+      "State and props in React",
+      "Handling events and forms",
+      "Routing in React applications",
+      "Building a React application project"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/nwGm1vk/html-advance.jpg",
+    "price": 59.99,
+    "category": "HTML",
+    "title": "Advanced HTML Techniques",
+    "course_name": "HTML5 and Beyond",
+    "teacher_name": "Alex Turner",
+    "description": "Take your HTML skills to the next level with this advanced course. Explore the latest features of HTML5, including semantic elements, multimedia, and offline web applications. Through hands-on projects, you'll master advanced techniques for creating modern and interactive web pages.",
+    "duration": "7 weeks",
+    "target_audience": "Intermediate web developers looking to advance their HTML skills",
+    "course_outline": [
+      "Overview of HTML5 and its features",
+      "Semantic HTML elements",
+      "Multimedia elements (audio, video)",
+      "Offline web applications with service workers",
+      "Accessibility best practices",
+      "Building an advanced HTML project"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/7YwxGY9/css-advance.png",
+    "price": 64.99,
+    "category": "CSS",
+    "title": "Mastering CSS Grid",
+    "course_name": "Advanced CSS Layouts",
+    "teacher_name": "Sophia Davis",
+    "description": "Delve into the power of CSS Grid for creating sophisticated and responsive layouts. This advanced course is designed for web developers who want to master the intricacies of CSS Grid. Through real-world examples and projects, you'll learn how to create complex and flexible page layouts.",
+    "duration": "6 weeks",
+    "target_audience": "Intermediate web developers with CSS experience",
+    "course_outline": [
+      "Introduction to CSS Grid and its benefits",
+      "Creating grid layouts",
+      "Responsive design with CSS Grid",
+      "Advanced grid techniques",
+      "CSS subgrid and nested grids",
+      "Building a complex layout project"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/wsM9qxG/js-advance.png",
+    "price": 69.99,
+    "category": "JavaScript",
+    "title": "Advanced JavaScript Concepts",
+    "course_name": "ES6 and Beyond",
+    "teacher_name": "Chris Martin",
+    "description": "Elevate your JavaScript skills with this advanced course covering ES6 and beyond. Explore modern JavaScript features, including arrow functions, destructuring, and async/await. Through hands-on coding exercises, you'll gain proficiency in writing clean and efficient JavaScript code.",
+    "duration": "7 weeks",
+    "target_audience": "Intermediate web developers with JavaScript experience",
+    "course_outline": [
+      "Introduction to ES6 and its features",
+      "Arrow functions and template literals",
+      "Destructuring and spread/rest operators",
+      "Promises and async/await",
+      "Modules in JavaScript",
+      "Building an advanced JavaScript project"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/k8Rhcn8/react-advance.jpg",
+    "price": 79.99,
+    "category": "React",
+    "title": "Mastering React Hooks",
+    "course_name": "Advanced React Development",
+    "teacher_name": "Eva Thompson",
+    "description": "Deepen your understanding of React with this advanced course focused on React Hooks. Learn how to use useState, useEffect, and custom hooks to manage state and side effects. Through real-world projects, you'll master the art of building scalable and maintainable React applications.",
+    "duration": "9 weeks",
+    "target_audience": "Intermediate to advanced React developers",
+    "course_outline": [
+      "Understanding React Hooks",
+      "Using useState and useEffect",
+      "Building custom hooks",
+      "Optimizing performance with React.memo",
+      "Handling complex state scenarios",
+      "Building an advanced React project"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/YjbSXxv/html-project.jpg",
+    "price": 89.99,
+    "category": "HTML",
+    "title": "HTML Project Development",
+    "course_name": "Building Responsive Websites",
+    "teacher_name": "Daniel White",
+    "description": "Apply your HTML skills to real-world projects in this hands-on course. Work on developing responsive websites, and gain practical experience in implementing best practices for web development. By the end of the course, you'll have a portfolio-ready project showcasing your HTML expertise.",
+    "duration": "10 weeks",
+    "target_audience": "Intermediate web developers with HTML experience",
+    "course_outline": [
+      "Project kickoff and requirements",
+      "Wireframing and design principles",
+      "Implementation of responsive design",
+      "Accessibility considerations",
+      "Testing and debugging",
+      "Project presentation and feedback"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/gzq5whn/css-project.jpg",
+    "price": 94.99,
+    "category": "CSS",
+    "title": "CSS Project Workshop",
+    "course_name": "Building Stylish Web Pages",
+    "teacher_name": "Olivia Brown",
+    "description": "Participate in this intensive workshop focused on applying CSS styling to practical projects. Learn how to create stylish and professional web pages through hands-on exercises. Gain insights into the latest trends in web design and leave with a portfolio of visually appealing projects.",
+    "duration": "8 weeks",
+    "target_audience": "Intermediate web developers with CSS experience",
+    "course_outline": [
+      "Understanding project requirements",
+      "Implementing advanced CSS styling",
+      "Creating animations and transitions",
+      "Cross-browser compatibility",
+      "Optimizing for performance",
+      "Project showcase and critique"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/LQLgh04/js-project.jpg",
+    "price": 99.99,
+    "category": "JavaScript",
+    "title": "JavaScript Project Development",
+    "course_name": "Building Interactive Web Applications",
+    "teacher_name": "Liam Miller",
+    "description": "Immerse yourself in the world of interactive web applications with this project-focused JavaScript course. Learn to incorporate dynamic features into your projects, such as user authentication, real-time updates, and API integration. By the end, you'll have a portfolio of interactive web applications.",
+    "duration": "12 weeks",
+    "target_audience": "Intermediate to advanced web developers with JavaScript experience",
+    "course_outline": [
+      "Project ideation and planning",
+      "Implementing interactive features",
+      "Working with external APIs",
+      "User authentication and authorization",
+      "Testing and debugging",
+      "Project presentation and feedback"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/ZBZjYJC/react-project.png",
+    "price": 109.99,
+    "category": "React",
+    "title": "React Project Showcase",
+    "course_name": "Building Real-world React Apps",
+    "teacher_name": "Ava Garcia",
+    "description": "Cap off your React journey with this advanced project showcase course. Build real-world React applications with a focus on best practices, scalability, and performance. Gain valuable insights into the development workflow and leave with a portfolio featuring your React expertise.",
+    "duration": "14 weeks",
+    "target_audience": "Advanced React developers looking to showcase their skills",
+    "course_outline": [
+      "Project selection and scoping",
+      "Architecting scalable React applications",
+      "State management with Redux",
+      "Optimizing for performance",
+      "Testing and deployment",
+      "Project showcase and peer review"
+    ]
+  }
+]

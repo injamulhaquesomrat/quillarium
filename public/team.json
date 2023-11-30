@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "teacher_name": "John Doe",
+    "img": "https://i.ibb.co/gtLS6Gp/john-doe.webp",
+    "designation": "Senior Web Developer",
+    "insta": "john.doe.insta",
+    "facebook": "john.doe.facebook",
+    "LinkedIn": "john.doe.linkedin",
+    "introduction": "Hello, I'm John Doe, a seasoned web developer with over 10 years of experience. I'm passionate about teaching and sharing my knowledge with aspiring developers. Join my courses to dive into the exciting world of web development!",
+    "category": "HTML",
+    "students": 1200,
+    "courses": 250,
+    "reviews": [
+      {
+        "user": "Alice",
+        "comment": "Great instructor! Explains concepts clearly."
+      },
+      { "user": "Bob", "comment": "Engaging and practical exercises." },
+      {
+        "user": "Charlie",
+        "comment": "Helped me build my first website. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "teacher_name": "Jane Smith",
+    "img": "https://i.ibb.co/zNT0WrX/jane-smith.webp",
+    "designation": "UI/UX Designer",
+    "insta": "jane.smith.insta",
+    "facebook": "jane.smith.facebook",
+    "LinkedIn": "jane.smith.linkedin",
+    "introduction": "Hi, I'm Jane Smith, a UI/UX designer and CSS enthusiast. I love creating visually stunning and user-friendly interfaces. Join my CSS Fundamentals course to transform your web design skills and make your pages stand out!",
+    "category": "CSS",
+    "students": 900,
+    "courses": 150,
+    "reviews": [
+      {
+        "user": "David",
+        "comment": "Excellent course! Improved my design skills."
+      },
+      {
+        "user": "Eva",
+        "comment": "Practical tips for creating responsive layouts."
+      },
+      {
+        "user": "Frank",
+        "comment": "Jane's design principles are spot on. Enjoyed every lesson!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "teacher_name": "Mike Johnson",
+    "img": "https://i.ibb.co/XVTc9W0/mike-johnson.webp",
+    "designation": "Full-stack Developer",
+    "insta": "mike.johnson.insta",
+    "facebook": "mike.johnson.facebook",
+    "LinkedIn": "mike.johnson.linkedin",
+    "introduction": "Greetings! I'm Mike Johnson, a full-stack developer passionate about all things JavaScript. Join my JavaScript Essentials course to master the language and build interactive web applications. Let's code together!",
+    "category": "JavaScript",
+    "students": 1500,
+    "courses": 75,
+    "reviews": [
+      {
+        "user": "Grace",
+        "comment": "Mike's teaching style is clear and concise."
+      },
+      {
+        "user": "Harry",
+        "comment": "Loved the real-world examples in the course."
+      },
+      {
+        "user": "Ivy",
+        "comment": "JavaScript finally makes sense! Great course!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "teacher_name": "Emily Wilson",
+    "img": "https://i.ibb.co/gt7NjQb/emily-wilson.webp",
+    "designation": "React Developer",
+    "insta": "emily.wilson.insta",
+    "facebook": "emily.wilson.facebook",
+    "LinkedIn": "emily.wilson.linkedin",
+    "introduction": "Hey, I'm Emily Wilson, a React enthusiast with a passion for building dynamic user interfaces. Enroll in my React for Beginners course to kickstart your journey into React development. Let's build amazing things together!",
+    "category": "React",
+    "students": 800,
+    "courses": 175,
+    "reviews": [
+      {
+        "user": "Jake",
+        "comment": "Emily's React course is beginner-friendly and practical."
+      },
+      { "user": "Karen", "comment": "Clear explanations of React concepts." },
+      {
+        "user": "Liam",
+        "comment": "Enjoyed every bit of the course. Looking forward to more!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "teacher_name": "Alex Turner",
+    "img": "https://i.ibb.co/khF3Fd0/alex-turner.webp",
+    "designation": "Web Development Trainer",
+    "insta": "alex.turner.insta",
+    "facebook": "alex.turner.facebook",
+    "LinkedIn": "alex.turner.linkedin",
+    "introduction": "Greetings, future web developers! I'm Alex Turner, your guide to advanced HTML techniques. Join my HTML5 and Beyond course to explore the latest features and take your web development skills to the next level.",
+    "category": "HTML",
+    "students": 1000,
+    "courses": 100,
+    "reviews": [
+      {
+        "user": "Nina",
+        "comment": "Alex's HTML5 course is comprehensive and well-structured."
+      },
+      {
+        "user": "Oscar",
+        "comment": "Learned a lot about advanced HTML features."
+      },
+      {
+        "user": "Pam",
+        "comment": "Practical projects made the learning experience enjoyable."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "teacher_name": "Sophia Davis",
+    "img": "https://i.ibb.co/Chh912b/sophia-davis.webp",
+    "designation": "Front-end Developer",
+    "insta": "sophia.davis.insta",
+    "facebook": "sophia.davis.facebook",
+    "LinkedIn": "sophia.davis.linkedin",
+    "introduction": "Hello, budding developers! I'm Sophia Davis, and I'm excited to guide you through the world of advanced CSS layouts. Enroll in my Mastering CSS Grid course to create flexible and stunning page layouts. Let's make your designs shine!",
+    "category": "CSS",
+    "students": 700,
+    "courses": 45,
+    "reviews": [
+      {
+        "user": "Quinn",
+        "comment": "Sophia's CSS Grid course is a game-changer."
+      },
+      {
+        "user": "Rachel",
+        "comment": "Practical exercises helped solidify my understanding."
+      },
+      {
+        "user": "Sam",
+        "comment": "Sophia's tips on responsive design are invaluable."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "teacher_name": "Chris Martin",
+    "img": "https://i.ibb.co/2g7GgyX/chris-martin.webp",
+    "designation": "Software Engineer",
+    "insta": "chris.martin.insta",
+    "facebook": "chris.martin.facebook",
+    "LinkedIn": "chris.martin.linkedin",
+    "introduction": "Hey, fellow developers! I'm Chris Martin, and I'm here to guide you through advanced JavaScript concepts. Join my ES6 and Beyond course to stay up-to-date with modern JavaScript features and write efficient code. Let's code smarter!",
+    "category": "JavaScript",
+    "students": 1200,
+    "courses": 90,
+    "reviews": [
+      {
+        "user": "Tina",
+        "comment": "Chris makes advanced JavaScript concepts easy to understand."
+      },
+      {
+        "user": "Ulysses",
+        "comment": "Practical examples clarified complex topics."
+      },
+      {
+        "user": "Violet",
+        "comment": "Chris's teaching style is engaging and effective."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "teacher_name": "Eva Thompson",
+    "img": "https://i.ibb.co/v1BFWwF/eva-thmpson.webp",
+    "designation": "React Specialist",
+    "insta": "eva.thompson.insta",
+    "facebook": "eva.thompson.facebook",
+    "LinkedIn": "eva.thompson.linkedin",
+    "introduction": "Greetings, React enthusiasts! I'm Eva Thompson, and I'm thrilled to guide you through the world of advanced React development. Join my Mastering React Hooks course to optimize your React applications and build scalable projects. Let's take React to the next level!",
+    "category": "React",
+    "students": 900,
+    "courses": 155,
+    "reviews": [
+      {
+        "user": "Walter",
+        "comment": "Eva's React Hooks course is a must for React developers."
+      },
+      {
+        "user": "Xena",
+        "comment": "Clear explanations of complex React concepts."
+      },
+      {
+        "user": "Yasmine",
+        "comment": "Eva's insights on state management are invaluable."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "teacher_name": "Daniel White",
+    "img": "https://i.ibb.co/9n2xjJ4/daniel-white.webp",
+    "designation": "Web Development Mentor",
+    "insta": "daniel.white.insta",
+    "facebook": "daniel.white.facebook",
+    "LinkedIn": "daniel.white.linkedin",
+    "introduction": "Hello, aspiring developers! I'm Daniel White, and I'm excited to guide you through the world of HTML project development. Join my HTML Project Development course to apply your skills to real-world projects and build responsive websites. Let's create something amazing together!",
+    "category": "HTML",
+    "students": 800,
+    "courses": 130,
+    "reviews": [
+      {
+        "user": "Zara",
+        "comment": "Daniel's project-based approach is highly effective."
+      },
+      {
+        "user": "Aaron",
+        "comment": "Practical tips for building responsive websites."
+      },
+      {
+        "user": "Bella",
+        "comment": "Daniel's guidance on project planning is invaluable."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "teacher_name": "Olivia Brown",
+    "img": "https://i.ibb.co/VB2780q/olivia-brown.webp",
+    "designation": "Creative Developer",
+    "insta": "olivia.brown.insta",
+    "facebook": "olivia.brown.facebook",
+    "LinkedIn": "olivia.brown.linkedin",
+    "introduction": "Hey, creative minds! I'm Olivia Brown, and I'm excited to lead you through the CSS Project Workshop. Join my course to learn advanced CSS styling techniques and create stylish web pages. Let's bring your creative ideas to life!",
+    "category": "CSS",
+    "students": 700,
+    "courses": 150,
+    "reviews": [
+      {
+        "user": "Charlie",
+        "comment": "Olivia's CSS Project Workshop is a creative journey."
+      },
+      {
+        "user": "Daisy",
+        "comment": "Learned how to add flair to my web pages."
+      },
+      {
+        "user": "Ethan",
+        "comment": "Olivia's tips on animations are a game-changer."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "teacher_name": "Liam Miller",
+    "img": "https://i.ibb.co/LtxMPzj/liam-miller.webp",
+    "designation": "Interactive Web Developer",
+    "insta": "liam.miller.insta",
+    "facebook": "liam.miller.facebook",
+    "LinkedIn": "liam.miller.linkedin",
+    "introduction": "Hello, interactive developers! I'm Liam Miller, and I'm excited to guide you through the world of JavaScript project development. Join my course to build interactive web applications using JavaScript. Let's add life to your web projects!",
+    "category": "JavaScript",
+    "students": 1000,
+    "courses": 135,
+    "reviews": [
+      {
+        "user": "Fiona",
+        "comment": "Liam's course made JavaScript project development fun."
+      },
+      {
+        "user": "George",
+        "comment": "Practical tips for creating dynamic web applications."
+      },
+      {
+        "user": "Hannah",
+        "comment": "Liam's guidance on API integration is invaluable."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "teacher_name": "Ava Garcia",
+    "img": "https://i.ibb.co/ykn4PRc/ava-garcia.webp",
+    "designation": "React Architect",
+    "insta": "ava.garcia.insta",
+    "facebook": "ava.garcia.facebook",
+    "LinkedIn": "ava.garcia.linkedin",
+    "introduction": "Greetings, React enthusiasts! I'm Ava Garcia, and I'm thrilled to guide you through the world of React project showcase. Join my course to build real-world React applications and showcase your skills. Let's create React masterpieces together!",
+    "category": "React",
+    "students": 1200,
+    "courses": 200,
+    "reviews": [
+      {
+        "user": "Ivan",
+        "comment": "Ava's React Project Showcase is a masterclass in React."
+      },
+      {
+        "user": "Jenna",
+        "comment": "Learned valuable insights into React architecture."
+      },
+      {
+        "user": "Kai",
+        "comment": "Ava's guidance on state management is top-notch."
+      }
+    ]
+  }
+]

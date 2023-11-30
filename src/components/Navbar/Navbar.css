@@ -1,0 +1,15 @@
+.navbar a.active {
+  background-color: #8879dc !important;
+  border-radius: 5rem;
+  font-weight: 500;
+  color: white !important;
+}
+.navbar a:hover {
+  background-color: #8879dc !important;
+  border-radius: 5rem;
+  color: white !important;
+}
+
+.navbar .navbar-start .logo:hover {
+  background-color: transparent !important;
+}
